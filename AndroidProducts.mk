@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_zeus.mk
+    $(LOCAL_DIR)/stag_zeus.mk
