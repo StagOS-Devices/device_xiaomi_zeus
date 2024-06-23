@@ -1,0 +1,60 @@
+[
+  {
+    "repository": "device_xiaomi_sm8450-common",
+    "target_path": "device/xiaomi/sm8450-common"
+  },
+  {
+    "repository": "PixelOS-Devices/device_xiaomi_miuicamera-zeus",
+    "target_path": "device/xiaomi/miuicamera-zeus",
+    "branch": "fourteen",
+    "remote": "github"
+  },
+  {
+    "repository" : "zeus-sm8450/android_kernel_xiaomi_sm8450",
+    "target_path": "kernel/xiaomi/sm8450",
+    "branch": "fourteen-zeus-rebase",
+    "remote": "github"
+  },
+  {
+    "repository" : "zeus-sm8450/android_kernel_xiaomi_sm8450-devicetrees",
+    "target_path": "kernel/xiaomi/sm8450-devicetrees",
+    "branch": "lineage-21",
+    "remote": "github"
+  },
+  {
+    "repository" : "zeus-sm8450/android_kernel_xiaomi_sm8450-modules",
+    "target_path": "kernel/xiaomi/sm8450-modules",
+    "branch": "lineage-21",
+    "remote": "github"
+  },
+  {
+    "repository": "Rasenkai/vendor_xiaomi_zeus",
+    "target_path": "vendor/xiaomi/zeus",
+    "branch": "fourteen",
+    "remote": "gitlab"
+  },
+  {
+    "repository": "Rasenkai/vendor_xiaomi_sm8450-common",
+    "target_path": "vendor/xiaomi/sm8450-common",
+    "branch": "fourteen",
+    "remote": "gitlab"
+  },
+  {
+    "repository": "Rasenkai/proprietary_vendor_xiaomi_miuicamera-zeus",
+    "target_path": "vendor/xiaomi/miuicamera-zeus",
+    "branch": "fourteen",
+    "remote": "gitlab"
+  },
+  {
+    "repository": "zeus-sm8450/hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "fourteen",
+    "remote": "github"
+  },
+  {
+    "repository": "AOSPA/android_device_xiaomi_sepolicy",
+    "target_path": "device/xiaomi/sepolicy",
+    "branch": "uvite",
+    "remote": "github"
+  }
+]
