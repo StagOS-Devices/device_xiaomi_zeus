@@ -34,7 +34,7 @@
     "remote": "gitlab"
   },
   {
-    "repository": "zeus-sm8450/hardware_xiaomi",
+    "repository": "PixelOS-AOSP/hardware_xiaomi",
     "target_path": "hardware/xiaomi",
     "branch": "fourteen",
     "remote": "github"
