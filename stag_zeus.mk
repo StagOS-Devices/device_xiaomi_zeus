@@ -10,10 +10,6 @@ $(call inherit-product, device/xiaomi/zeus/device.mk)
 # Inherit from common lineage configuration
 $(call inherit-product, vendor/stag/main.mk)
 
-# MiuiCamera
-$(call inherit-product, device/xiaomi/miuicamera-zeus/device.mk)
-$(call inherit-product, device/xiaomi/miuicamera-zeus/BoardConfig.mk)
-
 PRODUCT_NAME := stag_zeus
 PRODUCT_DEVICE := zeus
 PRODUCT_MANUFACTURER := Xiaomi
